@@ -2,7 +2,7 @@
 <h3 align="center">your friendly neighborhood Web Developer :)</h3>
 <br/>
 
-- 🔭 I’m currently working on **typeScript and GraphQL**
+- 🔭 I’m currently working on **Vue.js**
 
 - 🌱 I’m currently learning **mongoose/MongoDB/expressJS**
 
