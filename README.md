@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">Your friendly neighborhood Web Developer :)</h3>
+<p align="left">
+Four years building React and TypeScript applications for enterprise clients at a Munich-based IT consultancy — automotive, security tooling, civic tech. I care about frontends that hold up under real use: typed, tested, and easy for the next person to change. </p>
 
 <br/>
 
